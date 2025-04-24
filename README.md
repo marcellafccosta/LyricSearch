@@ -5,6 +5,17 @@ O **LyricSearch** é um aplicativo mobile desenvolvido em SwiftUI que permite ao
 
 ---
 
+
+
+## 📸 Demonstração
+
+<p align="center">
+  <img src="media/lyricgif.gif" width="400"/>
+</p>
+
+
+---
+
 ## 🔧 Tecnologias e Ferramentas
 
 - **SwiftUI** – Interface declarativa
@@ -51,14 +62,5 @@ LyricSearch/
 3. Selecione um simulador ou dispositivo físico.
 4. Execute com `Cmd + R`.
 
----
 
-## 📸 Demonstração
 
-![LyricSearch Demo](media/lyricgif.gif)
-
----
-
-## 👩‍💻 Desenvolvido por
-
-- [Marcella Chaves](https://github.com/marcellafccosta)
