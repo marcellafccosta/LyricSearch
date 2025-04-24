@@ -22,6 +22,7 @@ O **LyricSearch** é um aplicativo mobile desenvolvido em SwiftUI que permite ao
 - **MVVM** – Arquitetura com separação de responsabilidades
 - **URLSession** – Requisições HTTP para API de letras
 - **Xcode** – Ambiente de desenvolvimento
+- **[Lyrics.ovh API](https://lyricsovh.docs.apiary.io/)** – API pública para busca de letras de músicas
 
 ---
 
